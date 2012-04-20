@@ -36,5 +36,6 @@
 	<classpathentry kind="lib" path="web/WEB-INF/lib/mail.jar"/>
 	<classpathentry kind="lib" path="web/WEB-INF/lib/persistence.jar"/>
 	<classpathentry kind="lib" path="web/WEB-INF/lib/primefaces-3.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/sqljdbc4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
